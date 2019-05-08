@@ -1,0 +1,11 @@
+Hotel Hall;Downtown@1455 Boulevard de Maisonneuve O,QC H3G 1M8;1;Garden Front-Balcony;4.69
+Auberge Bishop;Downtown@1447 Bishop St, Montreal, QC H3G 2E4;6;;62
+Renaissance Montreal Downtown Hotel;Downtown@1250 Boulevard Robert-Bourassa, Montreal, QC H3B 3B8;3;Minibar-Balcony-Water Front;308
+Comfort Inn Aeroport;Airport@340 Michel Jasmin Ave, Dorval, QC H9P 1C1;12;Garden Front;122
+Beausejour Apartments;Airport@440 Avenue Roy, Dorval, QC H9S 3E1;6;;81
+Chalets Beaconsfield Motel;West@505 Beaconsfield Blvd, Beaconsfield, QC H9W 4C5;8;Pool;90
+Courtyard by Marriott Montreal ;West@20000 Trans-Canada Hwy, Baie-D'Urfe, QC H9X 0B3;12;;174
+Motel Le Marquis;East@6720 Sherbrooke St E, Montreal, QC H1N 3L5;2;Balcony;72
+Quality Hotel & Suites Montreal East;East@8100 Avenue de Neuville, Anjou, QC H1J 2T2;4;Garden Front;140
+Le Saint-Sulpice Hotel;Oldport@414 St Sulpice St, Montreal, QC H2Y 2V5;6;Balcony-Pool;249
+Auberge Bonsecours;Oldport@353 St Paul St E, Montreal, QC H2Y 1H3;1;Pool-Garden Front;149
